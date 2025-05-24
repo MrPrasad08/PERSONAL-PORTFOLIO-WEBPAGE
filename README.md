@@ -20,3 +20,7 @@
    FRIENDLY, VISUALLY MODERN, AND EASY TO CUSTOMIZE, MAKING IT IDEAL FOR PERSONAL BRANDING OR PROFESSIONAL USE.
 
 ## OUTPUT  : 
+
+  ![Image](https://github.com/user-attachments/assets/f9df4bce-d2c6-4782-9459-25a79229a0bb)
+
+ ![Image](https://github.com/user-attachments/assets/8c672ce6-9f72-4f4e-8153-79ba44cca64b)
